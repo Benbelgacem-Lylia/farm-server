@@ -1,0 +1,249 @@
+{
+  "users": [
+    {
+      "id": "4",
+      "firstName": "yasser",
+      "lastName": "yasser",
+      "email": "yasser@example.com",
+      "password": "yasser2024",
+      "role": "admin"
+    },
+    {
+      "firstName": "lylia",
+      "lastName": "benbelgacem",
+      "role": "employee",
+      "password": "lylia2001",
+      "id": "8f5a"
+    }
+  ],
+  "animals": [
+    {
+      "id": "Cow_1",
+      "type": "Cow",
+      "parameters": {
+        "temperature": 37,
+        "rumination": 80,
+        "movement": 70,
+        "heartRate": 75
+      },
+      "task": "Check rumination levels"
+    },
+    {
+      "id": "Cow_2",
+      "type": "Cow",
+      "parameters": {
+        "temperature": 38,
+        "rumination": 85,
+        "movement": 60,
+        "heartRate": 73
+      },
+      "task": "Monitor temperature"
+    }
+  ],
+  "customer": [
+    {
+      "id": "01",
+      "firstName": "Lylia",
+      "lastName": "Benbelgacem",
+      "email": "benbelgacemly@gmail.com",
+      "password": "lylia2024"
+    },
+    {
+      "id": "fa9b",
+      "firstName": "lylia",
+      "lastName": "benbelgacem",
+      "email": "benbelgacemly@gmail.com",
+      "password": "lylia2024"
+    },
+    {
+      "id": "591b",
+      "firstName": "lylia",
+      "lastName": "benbelgacem",
+      "email": "benbelgacemly2@gmail.com",
+      "password": "lylia2023"
+    },
+    {
+      "id": "5cd1",
+      "firstName": "yacine",
+      "lastName": "bensaad",
+      "email": "yacine@example.com",
+      "password": "yacine2024"
+    },
+    {
+      "id": "8318",
+      "firstName": "lylia",
+      "lastName": "benbelgacem",
+      "email": "test@example.com",
+      "password": "lylia123"
+    },
+    {
+      "id": "b29a",
+      "firstName": "Alice",
+      "lastName": "Williams",
+      "email": "alice.smith@example.com",
+      "password": "sdfgsdui"
+    },
+    {
+      "id": "668d",
+      "firstName": "lylia",
+      "lastName": "Smith",
+      "email": "benbelgacemlylia2@gmail.com",
+      "password": "lylia2024"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "سيلاج الذرة",
+      "type": "علف حيواني",
+      "price": 2.5,
+      "image": "./images/products/silaj.jpg"
+    },
+    {
+      "id": "2",
+      "name": "خروف",
+      "type": "حيوان",
+      "price": 300,
+      "image": "./images/products/sheep.jpg"
+    },
+    {
+      "id": "3",
+      "name": "بقرة",
+      "type": "حيوان",
+      "price": 300,
+      "image": "./images/products/cow.jpg"
+    },
+    {
+      "id": "4",
+      "name": "دجاج",
+      "type": "حيوان",
+      "price": 300,
+      "image": "./images/products/chiken.jpg"
+    },
+    {
+      "id": "5",
+      "name": "حليب",
+      "type": "منتجات الألبان",
+      "price": 1.2,
+      "image": "./images/products/milk.jpg"
+    }
+  ],
+  "orders": [
+    {
+      "orderId": "001",
+      "customerName": "John Doe",
+      "address": "123 Farm Road",
+      "email": "john.doe@example.com",
+      "phoneNumber": "1234567890",
+      "products": [
+        {
+          "name": "Silaj Corn",
+          "type": "animal feed",
+          "quantity": 5,
+          "price": 2.5,
+          "totalPrice": 12.5
+        }
+      ],
+      "deliveryDate": "2024-12-30",
+      "deliveryStatus": "Pending",
+      "id": "f7d0"
+    },
+    {
+      "id": "34c1",
+      "orderId": "001",
+      "customerName": "lylia",
+      "address": "El madania",
+      "email": "benbelgacemly@gmail.com",
+      "phoneNumber": "0541301892",
+      "products": [
+        {
+          "name": "Silaj Corn",
+          "type": "animal feed",
+          "quantity": 1,
+          "price": 2.5,
+          "totalPrice": 2.5
+        }
+      ],
+      "deliveryDate": "2025-01-01",
+      "deliveryStatus": "Pending"
+    },
+    {
+      "id": "c643",
+      "orderId": "002",
+      "customerName": "yacine",
+      "address": "El madania",
+      "email": "nnn@gmail.com",
+      "phoneNumber": "0541301892",
+      "products": [
+        {
+          "name": "Cow",
+          "type": "animal",
+          "quantity": 1,
+          "price": 300,
+          "totalPrice": 300
+        },
+        {
+          "name": "Sheep",
+          "type": "animal",
+          "quantity": 1,
+          "price": 300,
+          "totalPrice": 300
+        }
+      ],
+      "deliveryDate": "2024-01-01",
+      "deliveryStatus": "Pending"
+    },
+    {
+      "id": "8dfa",
+      "orderId": "001",
+      "customerName": "yacine ",
+      "address": "El madania",
+      "email": "yacine@example.com",
+      "phoneNumber": "0541301892",
+      "products": [
+        {
+          "name": "Cow",
+          "type": "animal",
+          "quantity": 2,
+          "price": 300,
+          "totalPrice": 600
+        },
+        {
+          "name": "Milk",
+          "type": "dairy",
+          "quantity": 2,
+          "price": 1.2,
+          "totalPrice": 2.4
+        },
+        {
+          "name": "Sheep",
+          "type": "animal",
+          "quantity": 2,
+          "price": 300,
+          "totalPrice": 600
+        }
+      ],
+      "deliveryDate": "2025-02-02",
+      "deliveryStatus": "Pending"
+    },
+    {
+      "id": "6082",
+      "orderId": "001",
+      "customerName": "lylia",
+      "address": "el madania",
+      "email": "benbelgacemlylia2@gmail.com",
+      "phoneNumber": "0541301892",
+      "products": [
+        {
+          "name": "سيلاج الذرة",
+          "type": "علف حيواني",
+          "quantity": 1,
+          "price": 2.5,
+          "totalPrice": 2.5
+        }
+      ],
+      "deliveryDate": "2025-01-01",
+      "deliveryStatus": "Pending"
+    }
+  ]
+}
