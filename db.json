@@ -91,43 +91,6 @@
       "password": "lylia2024"
     }
   ],
-  "products": [
-    {
-      "id": "1",
-      "name": "سيلاج الذرة",
-      "type": "علف حيواني",
-      "price": 2.5,
-      "image": "./images/products/silaj.jpg"
-    },
-    {
-      "id": "2",
-      "name": "خروف",
-      "type": "حيوان",
-      "price": 300,
-      "image": "./images/products/sheep.jpg"
-    },
-    {
-      "id": "3",
-      "name": "بقرة",
-      "type": "حيوان",
-      "price": 300,
-      "image": "./images/products/cow.jpg"
-    },
-    {
-      "id": "4",
-      "name": "دجاج",
-      "type": "حيوان",
-      "price": 300,
-      "image": "./images/products/chiken.jpg"
-    },
-    {
-      "id": "5",
-      "name": "حليب",
-      "type": "منتجات الألبان",
-      "price": 1.2,
-      "image": "./images/products/milk.jpg"
-    }
-  ],
   "orders": [
     {
       "orderId": "001",
