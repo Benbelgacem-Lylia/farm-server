@@ -49,20 +49,6 @@
       "password": "lylia2024"
     },
     {
-      "id": "fa9b",
-      "firstName": "lylia",
-      "lastName": "benbelgacem",
-      "email": "benbelgacemly@gmail.com",
-      "password": "lylia2024"
-    },
-    {
-      "id": "591b",
-      "firstName": "lylia",
-      "lastName": "benbelgacem",
-      "email": "benbelgacemly2@gmail.com",
-      "password": "lylia2023"
-    },
-    {
       "id": "5cd1",
       "firstName": "yacine",
       "lastName": "bensaad",
@@ -75,20 +61,6 @@
       "lastName": "benbelgacem",
       "email": "test@example.com",
       "password": "lylia123"
-    },
-    {
-      "id": "b29a",
-      "firstName": "Alice",
-      "lastName": "Williams",
-      "email": "alice.smith@example.com",
-      "password": "sdfgsdui"
-    },
-    {
-      "id": "668d",
-      "firstName": "lylia",
-      "lastName": "Smith",
-      "email": "benbelgacemlylia2@gmail.com",
-      "password": "lylia2024"
     }
   ],
   "orders":[]
