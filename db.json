@@ -47,20 +47,6 @@
       "lastName": "Benbelgacem",
       "email": "benbelgacemly@gmail.com",
       "password": "lylia2024"
-    },
-    {
-      "id": "5cd1",
-      "firstName": "yacine",
-      "lastName": "bensaad",
-      "email": "yacine@example.com",
-      "password": "yacine2024"
-    },
-    {
-      "id": "8318",
-      "firstName": "lylia",
-      "lastName": "benbelgacem",
-      "email": "test@example.com",
-      "password": "lylia123"
     }
   ],
   "orders":[]
