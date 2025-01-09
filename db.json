@@ -49,5 +49,34 @@
       "password": "lylia2024"
     }
   ],
-  "orders":[]
+  "orders":{
+    "id": "01",
+    "customer": {
+      "name": "lylia",
+      "email": "lylia@gmail.com",
+      "phone": "0541301892",
+      "deliveryDate": "2026-01-01",
+      "address": "salombier"
+    },
+    "items": [
+      {
+        "product": "sheep",
+        "price": 50000,
+        "quantity": 2,
+        "total": 100000
+      },
+      {
+        "product": "chicken",
+        "price": 15000,
+        "quantity": 2,
+        "total": 30000
+      },
+      {
+        "product": "milk",
+        "price": 50,
+        "quantity": 2,
+        "total": 100
+      }
+    ]
+  }
 }
