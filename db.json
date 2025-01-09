@@ -49,7 +49,8 @@
       "password": "lylia2024"
     }
   ],
-  "orders":{
+  "orders":[
+    {
     "id": "01",
     "customer": {
       "name": "lylia",
@@ -79,4 +80,5 @@
       }
     ]
   }
+]
 }
