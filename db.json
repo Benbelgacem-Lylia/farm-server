@@ -11,6 +11,7 @@
     {
       "firstName": "lylia",
       "lastName": "benbelgacem",
+      "email": "lylia@example.com",
       "role": "employee",
       "password": "lylia2001",
       "id": "8f5a"
